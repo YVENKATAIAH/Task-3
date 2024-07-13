@@ -1,1 +1,5 @@
-# Task-3
+Name:-YEDDU VENKATAIAH
+Domain:-Python Internship
+INtern ID:-SMI68866
+Duration:-Mat 31,2024 to july 31,2024
+E_mail:-yeddusunny12@gmail.com
